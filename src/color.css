@@ -1,0 +1,26 @@
+.body {
+    text-align: center;
+    height:250px;
+    padding-bottom: 20px;
+    margin-left: 500px;
+    margin-right: 500PX;
+    border-radius: 250px;
+    text-align:center;
+    padding-top: 40px;
+  }
+  .heading{
+    font-weight: bold;
+    font-family: Verdana;
+    font-size: xx-large;
+  }
+  .bg{
+    background-color: lightgoldenrodyellow;
+    height:100vh;
+  }
+  #Dee{
+    height: 5px;
+    font-size: smaller;
+    width:350px;
+    border-radius: 25px;
+
+  }
